@@ -1,0 +1,21 @@
+Return-Path: <payroll-noreply@hr-hokie-support.com>
+Received: from mail.secure-server-x.net (185.192.68.12) by mx.google.com 
+    with ESMTPS id m15si1234567oie.123.2026.03.17.05.20.00;
+    Tue, 17 Mar 2026 05:20:00 -0700 (PDT)
+X-Originating-IP: [103.22.4.155]
+Authentication-Results: mx.google.com; 
+    spf=fail (google.com: domain of hr-hokie-support.com does not designate 185.192.68.12 as permitted sender) 
+    smtp.mailfrom=payroll-noreply@hr-hokie-support.com;
+From: "Virginia Tech Payroll" <payroll@vt.edu>
+Subject: URGENT: Action Required - Update Direct Deposit
+To: student@vt.edu
+Content-Type: text/html; charset="UTF-8"
+
+<html>
+<body>
+<h1>Security Alert</h1>
+<p>Dear Student,</p>
+<p>Your direct deposit information has been flagged for a security review. Please <a href="http://login-hokie-secure.net/update">click here to verify your banking details immediately</a> to avoid a payroll suspension.</p>
+<p>Regards,<br>The Hokie Payroll Team</p>
+</body>
+</html>
