@@ -1,0 +1,26 @@
+WOLVERINE PRECISION COMPONENTS - ASSEMBLY PROCESS BLUEPRINT
+PRODUCT: WPC-Series 900 Turbine Disk Assembly
+CLASSIFICATION: PROPRIETARY / EXPORT CONTROLLED (EAR99)
+STOLEN BY: Priya Nair | DATE: 2024-03-15
+
+STAGE 1 - PRE-ASSEMBLY INSPECTION:
+Dimensional check per WPC-QC-0041 CMM Protocol
+Reject criteria: Any surface defect greater than 0.002 in depth
+Required cert: AS9100D Level 3 inspector signature
+
+STAGE 2 - PRECISION BALANCING:
+Equipment: Schenck HM-14 Balancing Machine
+Spec: Residual imbalance max 0.1 g-mm/kg (ISO 1940-1 Grade G1)
+Procedure: 3-plane correction at 3600 RPM
+
+STAGE 3 - INTERFERENCE FIT ASSEMBLY:
+Disk bore temp: -196C (LN2 bath, 45 min minimum)
+Housing temp: +175C (oven, 30 min minimum)
+Assembly window: 90 seconds maximum
+
+STAGE 4 - NDT INSPECTION:
+Method: Fluorescent Penetrant Inspection (FPI) per ASTM E1417
+Acceptance: Zero relevant indications greater than 0.020 in
+
+COMPETITOR RECEIVING: AeroParts Global Ltd, Toronto
+ECONOMIC VALUE: Process IP conservatively valued at $12M

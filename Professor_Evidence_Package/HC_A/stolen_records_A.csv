@@ -1,0 +1,8 @@
+patient_id,last_name,first_name,dob,ssn_partial,diagnosis,insurance_id
+MRC-10847,Thornton,Eleanor,1952-03-14,xxx-xx-8841,Type 2 Diabetes / CKD Stage 3,BCBS-44129
+MRC-10848,Vasquez,Carlos,1978-11-02,xxx-xx-2317,Hypertension / CAD,AETNA-88231
+MRC-10849,Nguyen,Kim-Linh,1965-07-29,xxx-xx-5509,Breast Cancer Stage II,UHC-99104
+MRC-10850,Patterson,Gregory,1941-12-08,xxx-xx-0073,Alzheimers Disease,MEDICARE-77341
+MRC-10851,Ibrahim,Fatima,1990-04-17,xxx-xx-6628,HIV Positive on ART therapy,MEDICAID-33812
+-- 842 additional records truncated --
+TOTAL RECORDS EXFILTRATED: 847 | DATE: 2024-03-07 | DEST: dropbox.com/jcaldwell_backup

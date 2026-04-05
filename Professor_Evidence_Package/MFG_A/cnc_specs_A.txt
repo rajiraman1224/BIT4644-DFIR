@@ -1,0 +1,22 @@
+WOLVERINE PRECISION COMPONENTS - PROPRIETARY CNC SPECIFICATIONS
+PART: WPC-7741-Alpha Aerospace Bracket
+CLASSIFICATION: TRADE SECRET / ITAR CONTROLLED
+STOLEN BY: Tyler Holt | DATE: 2024-04-09
+
+MATERIAL: 7075-T6 Aluminum Billet 18x12x4 inches
+
+MACHINING PARAMETERS:
+Spindle Speed: 8400 RPM (roughing) / 12000 RPM (finishing)
+Feed Rate: 120 IPM (roughing) / 45 IPM (finishing)
+Depth of Cut: 0.150 in (roughing) / 0.005 in (finishing)
+Coolant: Flood at 450 PSI
+
+TOLERANCES:
+Bore diameter: 2.1875 in +0.0005/-0.0000
+Flatness: 0.0003 in per 6 inches
+Surface finish: 32 Ra microinches
+
+DEFENSE CONTRACT: USAF F-35 Program Support
+CUSTOMER: Lockheed Martin Aeronautics
+CONTRACT VALUE: $4.2M annually
+DESTINATION: HuaLong Precision Manufacturing, Shanghai
