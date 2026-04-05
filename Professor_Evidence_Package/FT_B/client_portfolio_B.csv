@@ -1,9 +1,0 @@
-client_id,name,aum_millions,strategy,target_return_pct,risk_tier
-APC-001,Blackstone Family Office,425.0,Long/Short Equity,14.2,HIGH
-APC-002,Sullivan Pension Fund,1200.0,Market Neutral,8.5,MED
-APC-003,Thornton Endowment,87.5,Global Macro,11.0,HIGH
-APC-004,Meridian Sovereign Fund,3400.0,Multi-Strat,9.8,LOW
-APC-005,Cascade Family Partners,210.0,Event Driven,16.3,HIGH
--- DATA STOLEN BY D.PARK ON 2024-03-22 --
--- DESTINATION: CompetitorHedge LLC (interview package) --
-TOTAL AUM REPRESENTED: $5.32 BILLION

@@ -1,8 +1,0 @@
-patient_id,last_name,first_name,dob,ssn_partial,balance_owed,insurer,claim_status
-MRC-20101,Whitfield,Deborah,1955-06-30,xxx-xx-4421,1847.00,CIGNA-10283,DENIED
-MRC-20102,Chen,Robert,1982-09-15,xxx-xx-7730,322.50,BCBS-58841,PAID
-MRC-20103,Washington,Alicia,1970-01-22,xxx-xx-1198,9450.00,SELF-PAY,OUTSTANDING
-MRC-20104,Patel,Rajiv,1948-11-04,xxx-xx-8863,0.00,MEDICARE-44221,PAID
-MRC-20105,Torres,Miguel,1993-05-08,xxx-xx-5547,7200.00,MEDICAID-29910,PENDING
--- 1198 additional billing records truncated --
-TOTAL RECORDS: 1203 | DEST: smeyers_personal@gmail.com | DATE: 2024-04-12
