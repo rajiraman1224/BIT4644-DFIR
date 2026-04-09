@@ -1,0 +1,8 @@
+patient_id,last_name,first_name,dob,ssn_partial,diagnosis,prescriptions
+MRC-30441,Murphy,Shannon,1968-02-19,xxx-xx-3312,Opioid Use Disorder,Suboxone 8mg/2mg
+MRC-30442,Johnson,Terrell,1975-08-03,xxx-xx-9901,Major Depressive Disorder,Zoloft 100mg
+MRC-30443,Kowalski,Barbara,1960-10-27,xxx-xx-2278,Hepatitis C,Harvoni 90mg/400mg
+MRC-30444,Ahmad,Yusuf,1988-04-14,xxx-xx-6643,PTSD and Anxiety,Prazosin 2mg
+MRC-30445,Delgado,Rosa,1979-12-31,xxx-xx-8814,HIV Positive (undetectable),Biktarvy 200mg
+-- 407 additional records truncated --
+TOTAL: 412 records | EXFIL: USB thumb drive | DATE: 2024-05-03

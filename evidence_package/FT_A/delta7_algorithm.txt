@@ -1,0 +1,21 @@
+APEX CAPITAL - PROPRIETARY TRADING ALGORITHM DELTA-7
+CLASSIFICATION: TOP SECRET / TRADE SECRET
+Author: Marcus Webb | Last Modified: 2024-02-14
+UNAUTHORIZED POSSESSION = FEDERAL ECONOMIC ESPIONAGE ACT VIOLATION
+
+ALPHA_SIGNAL_WEIGHTS = {
+    momentum_12m: 0.342,
+    mean_reversion_5d: -0.218,
+    vol_adjusted_carry: 0.487,
+    sector_rotation_score: 0.391,
+    macro_sentiment_idx: 0.224,
+}
+
+RISK_LIMITS = {
+    max_drawdown_pct: 0.08,
+    var_95_daily: 2400000,
+    gross_exposure_cap: 180000000,
+}
+
+STOLEN BY MARCUS WEBB ON 2024-02-14
+DESTINATION: HorizonQuant LLC (competitor) via encrypted email

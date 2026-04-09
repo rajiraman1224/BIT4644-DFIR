@@ -1,0 +1,11 @@
+card_number_masked,exp_date,cvv_present,billing_zip,transaction_date,amount
+4532-xxxx-xxxx-7841,09/26,YES,98101,2024-04-01,$142.99
+4716-xxxx-xxxx-3312,11/25,YES,10019,2024-04-01,$89.50
+5425-xxxx-xxxx-9901,03/27,YES,60611,2024-04-01,$334.00
+4929-xxxx-xxxx-2278,07/26,YES,94102,2024-04-01,$27.49
+4539-xxxx-xxxx-6643,12/25,YES,30301,2024-04-01,$199.99
+-- 4827 additional card records --
+TOTAL CARDS COMPROMISED: 4832
+SKIMMER ACTIVE: 2024-03-15 through 2024-04-01 (17 days)
+EXFIL ENDPOINT: 185.220.101.47:9443 (TOR exit node Frankfurt)
+DEVELOPER: Connor Walsh (resigned 2024-04-02)
